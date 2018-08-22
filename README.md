@@ -7,11 +7,15 @@ Breakout like game. Very first game in java (just to try java graphics). Feel fr
 
 Keyboard in menu: 
 
-UP / DOWN arrows - select menu option
-ENTER - confirm menu option 
+UP / DOWN arrows - select menu option <br/>
+ENTER - confirm menu option <br/>
 
 In game: 
 
-A - move bar left 
-D - move bar right 
-P - pause game 
+A - move bar left <br/>
+D - move bar right <br/>
+P - pause game <br/>
+
+Resources licensing:
+
+See license_resources.txt file to find out about license. 
